@@ -1,0 +1,152 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0px;
+    
+}
+.header
+{
+    overflow: hidden;
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+   
+
+    
+
+}
+.left-area{
+    width: 40%;
+    float: left;
+    margin-top: 30px;
+    margin-left: 5%;
+}
+.right-area {
+	width: 40%;
+	float: right;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+span{
+    color: orange;
+}
+.btn a{
+    background-image: linear-gradient(45deg ,lightSalmon,tomato);
+    text-decoration: none;
+    padding: 10px 20px ;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.btn {
+	margin-top: 20px;
+}
+h1 {
+	line-height: 78px;
+	font-size: 40px;
+	font-weight: 500;
+}
+img {
+	width: 100%;
+}
+h5 {
+	font-size: 20px;
+	font-weight: 500;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.dining img{
+
+     
+        margin-left: 5%;
+    }
+
+.dining{
+ 
+ width:40%;
+ float: left;
+
+}
+
+.dream{
+    overflow: hidden;
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.extra {
+	width: 40%;
+	float: right;
+	margin: 8%;
+	margin-top: 1px;
+}
+.experience {
+    margin-top: 8%;
+   
+    background-image: url(img/exp-bg.png);
+    background-position:left  ;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    padding-bottom: 5%;
+    
+}
+.experience .full-stack{
+    width: 40%;
+    background-color: white;
+    float: left;
+    box-shadow: 10px 10px 40px gray;
+    margin-left:5%;
+    padding: 25px 20px;
+    border-left: 7px solid orange;
+    height: 80%;
+}
+.experience .baby{
+    width: 40%;
+    float: right;
+    box-shadow: 10px 10px 40px gray;
+    margin-right: 5%;
+    padding: 112px 20px;
+    border-left: 7px solid ;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+    height: 80%;
+}
+.experience .full-stack  h2{
+    font-size: 32px;
+    font-weight: 500;
+}
+.experience .full-stack h6{
+    color: orange;
+    font-size: 21px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.baby h6 {
+	color: orange;
+font-size: 21px;
+font-weight: 500;
+margin-bottom: 20px;
+margin-top: 10px;
+}
+.full-stack p {
+    color: #938787;
+    padding-bottom: 60px;
+}
+.baby h2 {
+	font-size: 30px;
+    font-weight: 500;
+    
+    margin-top: -60px;
+
+}
+.baby p{
+    color: #938787;
+}
+.fott{
+    text-align: center;
+    margin-top: 10%;
+}
